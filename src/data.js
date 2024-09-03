@@ -6,4 +6,5 @@ export const data = {
   France: "Paris",
   Germany: "Berlin",
   England: "London",
+  Iran: "Tehran",
 };
