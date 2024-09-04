@@ -1,10 +1,11 @@
 import "./App.css";
-import { Data } from "./data";
+import Game from "./Game";
+import { data } from "./Data";
 
 function App() {
   return (
     <main>
-      <Game data={Data} />
+      <Game data={data} />
     </main>
   );
 }
